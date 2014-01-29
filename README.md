@@ -40,13 +40,13 @@ Files PCB [gerber](http://cyberplant.ru/modules/blogwp/wordpress/wp-content/uplo
 ![pH Correcor Kit](http://cyberplant.ru/modules/blogwp/wordpress/wp-content/uploads/2014/01/pH_kit_1_400.jpg)
 
 To assemble the device will need the following items:
-1. Cyberplant pH Correcnor Shield
-2. Arduino Uno или Arduino Mega 
-3. pH Circuit
-4. pH sensor
-5. power supply unit 
-6. Couple peristaltic pump
-7. display
+	1. Cyberplant pH Correcnor Shield
+	2. Arduino Uno or Arduino Mega 
+	3. pH Circuit
+	4. pH sensor
+	5. power supply unit 
+	6. Couple peristaltic pump
+	7. display
 
 
 
