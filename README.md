@@ -35,6 +35,8 @@ Power supply for the pumps is taken from Vin Arduino
 
 Files PCB [gerber](http://cyberplant.ru/modules/blogwp/wordpress/wp-content/uploads/2014/01/pH_Shield_2.5.zip).
 
+[fritzing project](http://fritzing.org/projects/ph-corrector-shield-v20)
+
 # Assembling
 
 ![pH Correcor Kit](http://cyberplant.ru/modules/blogwp/wordpress/wp-content/uploads/2014/01/pH_kit_1_400.jpg)
