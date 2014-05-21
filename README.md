@@ -77,4 +77,4 @@ Also on the Arduino board after installing pH Corrector Shield remain free conta
 
 Before using this Arduino sketch is recommended 
 reset the EEPROM on this monual: <http://arduino.cc/en/Tutorial/EEPROMClear>
-
+The firmware 2.5 is sufficient to perform the function RESET ALL in the menu.
