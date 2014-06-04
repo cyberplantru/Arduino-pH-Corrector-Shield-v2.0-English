@@ -1,6 +1,7 @@
 # Arduino pH Corrector Shield v 2.0
 [RU](https://github.com/cyberplantru/Arduino-pH-Corrector-Shield-v2.0)
 
+upd. 04/05/2014 bugfixes
 upd. 17/04/2014 New in sketch v2.5 - add function for calibration pumps/tubes, log file in EEPROM, function "reset all" and "save all"
 
 
